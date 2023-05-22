@@ -250,6 +250,8 @@ button {
 .image_1 {
     width: 100%;
     float: left;
+    position: relative;
+    bottom: 30px;
 }
 
 .logo {
@@ -1004,6 +1006,7 @@ a.facebookBtn.smGlobalBtn.active {
 
 
 /* copyright section end */
+
 .Products h1{
     font-size: 30px;
     text-align: center;
@@ -1015,7 +1018,7 @@ a.facebookBtn.smGlobalBtn.active {
 
 div.gallery {
     border: 1px solid #ccc;
-    height: 600px;
+    
   }
   
   div.gallery:hover {
@@ -1033,9 +1036,7 @@ div.gallery {
     font-weight: bold;
   }
   
-  * {
-    box-sizing: border-box;
-  }
+  
   
   .responsive {
     padding: 0 6px;
@@ -1063,6 +1064,4 @@ div.gallery {
     display: table;
     clear: both;
   }
-
-
 
