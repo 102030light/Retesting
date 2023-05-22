@@ -1042,6 +1042,7 @@ div.gallery {
     padding: 0 6px;
     float: left;
     width: 24.99999%;
+    background-color: #fdebcb;
   }
   
   @media only screen and (max-width: 700px) {
