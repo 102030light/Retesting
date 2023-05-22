@@ -631,7 +631,7 @@ button {
     width: 100%;
     float: left;
     background-color: #fdebcb;
-    height: auto;
+    height: 200vh;
     padding: 90px 0px;
 }
 
