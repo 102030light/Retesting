@@ -402,7 +402,7 @@ button {
 .about_text {
     width: 100%;
     float: left;
-    font-size: 20px;
+    font-size: 25px;
     color: #000000;
     margin: 0px;
 }
@@ -792,15 +792,14 @@ input.email_text::placeholder {
 
 .footer_location_text ul {
     margin: 0px;
-    padding: 30px;
+    padding: 0px;
     display: inline-block;
     text-align: center;
-    font-size: 10px;
 }
 
 .footer_location_text li {
     float: left;
-    
+    font-size: 16px;
     color: #ffffff;
     padding: 50px 80px;
 }
