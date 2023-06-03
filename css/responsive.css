@@ -130,9 +130,13 @@
     }
 
     
+
+    
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
+
+   
     #main_slider a.carousel-control-next {
         position: absolute;
         right: 425px;
@@ -190,6 +194,7 @@
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+    
     #main_slider a.carousel-control-next {
         position: absolute;
         right: 325px;
@@ -291,9 +296,7 @@
     .contact_bt {
         width: 170px;
     }
-    .image_1 {
-        padding-top: 50px;
-    }
+   
     .banner_section {
         padding-bottom: 90px;
     }
@@ -419,6 +422,9 @@
     }
     .image_1 {
         padding-top: 50px;
+       
+       
+        
     }
     .banner_section {
         padding-bottom: 90px;
@@ -482,6 +488,7 @@
     }
     .footer_location_text ul {
         text-align: left;
+        font-size: 10px;
     }
     .useful_text {
         padding-top: 20px;
@@ -491,9 +498,19 @@
     }
 
     .about_text{
-        font-size: 25px;
-        text-align: justify;
+        font-size: 20px;
+        
         color: rgb(39, 39, 39);
+        line-height: 50px;
     }
+    
+}
+
+em{
+    font-size: 25px;
+}
+
+.copyright_text a{
+    color: blue;
     
 }
