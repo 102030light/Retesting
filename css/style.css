@@ -303,30 +303,26 @@ button {
 .banner_taital {
     width: 100%;
     float: left;
-    font-size: 10px;
+    font-size: 50px;
     color: #7c2c0c;
     font-weight: bold;
-    line-height: 50px;
-    
-    
+    line-height: 60px;
 }
 
 .banner_text {
-    width: 100%;
+    width: 80%;
     float: left;
-    font-size: 10px;
+    font-size: 16px;
     color: #7c2c0c;
     margin: 0px;
     padding-top: 30px;
-    
+    font-weight: 500;
 }
 
 .btn_main {
     width: 100%;
     float: left;
     padding-top: 50px;
-    position: relative;
-    bottom: 50px;
 }
 
 .contact_bt {
@@ -932,14 +928,16 @@ a.facebookBtn.smGlobalBtn.active {
 .lorem_text {
     width: 56%;
     float: left;
-    font-size: 16px;
+    font-size: 10px;
     color: #878585;
     margin: 0px;
     padding-top: 10px;
 }
 
+
+
 .footer_location_text li{
-    font-size: 25px;
+    font-size: 20px;
 }
 .footer_text {
     width: 100%;
