@@ -243,8 +243,7 @@ button {
 
 .navbar {
     padding: .5rem 0px;
-    border-top: 20px solid #efe4d1;
-    border-bottom: 20px solid #efe4d1;
+    
 }
 
 .image_1 {
@@ -945,6 +944,7 @@ a.facebookBtn.smGlobalBtn.active {
     color: #878585;
     margin: 0px;
     padding-top: 10px;
+    
 }
 
 .footer_menu {
@@ -1042,7 +1042,7 @@ div.gallery {
     padding: 0 6px;
     float: left;
     width: 24.99999%;
-    background-color: #fdebcb;
+   
   }
   
   @media only screen and (max-width: 700px) {
@@ -1051,6 +1051,8 @@ div.gallery {
       margin: 6px 0;
       padding: 20px;
     }
+
+    
   }
   
   @media only screen and (max-width: 500px) {
@@ -1061,8 +1063,22 @@ div.gallery {
   }
   
   .clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
+    
   }
 
+
+ .card img{
+    border-radius: 100%;
+    padding: 50px;
+    width: 50%;
+ }
+
+ .column{
+    float: block;
+    width: 50%;
+    padding: 20px;
+ }
+
+ .row{
+    padding: 20px;
+ }
