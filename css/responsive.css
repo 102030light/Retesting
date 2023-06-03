@@ -411,14 +411,20 @@
         background-size: cover;
     }
     .banner_taital {
-        font-size: 40px;
+        font-size: 35px;
+  
+
     }
     .banner_text {
         font-size: 15px;
         width: 100%;
+        position: relative;
+        
     }
     .contact_bt {
         width: 170px;
+        position: relative;
+        bottom: 50px;
     }
     .image_1 {
         padding-top: 50px;
