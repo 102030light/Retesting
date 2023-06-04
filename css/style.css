@@ -1054,6 +1054,8 @@ div.gallery {
       padding: 20px;
     }
 
+   
+   
     
   }
   
@@ -1062,6 +1064,7 @@ div.gallery {
       width: 50%;
       padding: 20px;
     }
+
   }
   
   .clearfix:after {
@@ -1071,14 +1074,15 @@ div.gallery {
 
  .card img{
     border-radius: 100%;
-    padding: 50px;
+    padding: 100px;
     width: 50%;
  }
 
  .column{
     float: block;
-    width: 50%;
+    width: 100%;
     padding: 20px;
+    text-align: center;
  }
 
  .row{
