@@ -373,6 +373,8 @@
     .margin_top_90 {
         margin-top: 90px;
     }
+
+    
 }
 
 @media (max-width: 575px) {
@@ -519,4 +521,19 @@ em{
 .copyright_text a{
     color: blue;
     
+}
+
+@media (min-width: 575px){
+    .card{
+        padding: px;
+        width: 30%;
+        float: left;
+        position: relative;
+        left: 200px;    
+    }
+
+    .about_text{
+        line-height: 40px;
+    }
+
 }
